@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+ <title></title>
+</head>
+<body>
+ <header class="rt">
+  <h1>ترتيب الجدول الاسبوعي</h1>
+ </header>
+ <main>
+  <div class="flex">
+  <div class="box-box">
+   <h2>جدول مهام</h2>
+    <ul>
+     <li>التسويق</li>
+     <li>تصميم مواقع الويب</li>
+     <li>إدارة الأعمال</li>
+    </ul>
+  </div>
+    <div class="box-box">
+   <h2>جدول مهام</h2>
+    <ul>
+     <li>التسويق</li>
+     <li>تصميم مواقع الويب</li>
+     <li>إدارة الأعمال</li>
+    </ul>
+  </div>
+   <div class="box-box">
+   <h2>جدول مهام</h2>
+    <ul>
+     <li>التسويق</li>
+     <li>تصميم مواقع الويب</li>
+     <li>إدارة الأعمال</li>
+    </ul>
+  </div>
+   <div class="box-box">
+   <h2>جدول مهام</h2>
+    <ul>
+     <li>التسويق</li>
+     <li>تصميم مواقع الويب</li>
+     <li>إدارة الأعمال</li>
+    </ul>
+  </div>
+   <div class="box-box">
+   <h2>جدول مهام</h2>
+    <ul>
+     <li>التسويق</li>
+     <li>تصميم مواقع الويب</li>
+     <li>إدارة الأعمال</li>
+    </ul>
+  </div>
+   <div class="box-box">
+   <h2>جدول مهام</h2>
+    <ul>
+     <li>التسويق</li>
+     <li>تصميم مواقع الويب</li>
+     <li>إدارة الأعمال</li>
+    </ul>
+  </div>
+   <div class="box-box">
+   <h2>جدول مهام</h2>
+    <ul>
+     <li>التسويق</li>
+     <li>تصميم مواقع الويب</li>
+     <li>إدارة الأعمال</li>
+    </ul>
+  </div>
+   </div>
+  <textarea></textarea>
+ </main>
+</body>
+</html>
